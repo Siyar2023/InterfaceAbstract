@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lektion_7_Interface_Abstract.iml" filepath="$PROJECT_DIR$/Lektion_7_Interface_Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAbstract.iml" filepath="$PROJECT_DIR$/InterfaceAbstract.iml" />
     </modules>
   </component>
 </project>
